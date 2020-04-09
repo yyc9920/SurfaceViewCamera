@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "686479987574",
+    "firebase_url": "https://test1-c7b24.firebaseio.com",
+    "project_id": "test1-c7b24",
+    "storage_bucket": "test1-c7b24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686479987574:android:e60e12a44012bbd42d2057",
+        "android_client_info": {
+          "package_name": "com.example.surfaceviewcamera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686479987574-ab3d2mbjr82paqk25t7vfrbee9ph2b6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLTgiLdH_iDyI3N3nLibf3-LO1S-2CoDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686479987574-ab3d2mbjr82paqk25t7vfrbee9ph2b6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
